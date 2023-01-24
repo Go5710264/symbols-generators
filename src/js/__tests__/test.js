@@ -36,5 +36,4 @@ test('return object with group members', () => {
   ];
 
   expect(party).toEqual(groupClone);
-//   expect(party.equals(groupClone)).toBe(true)
 });
